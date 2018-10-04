@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Thu Oct 04 16:03:20 CEST 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0166-3f63-d8e2-00000e17d9d8 
+Thu Oct 04 16:19:17 CEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0166-3f72-7203-00000e951488 
 on database directory memory:C:\Users\Szenti Bernadett\Documents\course-api-data\testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
 Loaded from file:/C:/Users/Szenti%20Bernadett/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Oracle Corporation
