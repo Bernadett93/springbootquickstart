@@ -1,6 +1,5 @@
-package io.javabrains.springbootstarter.topic;
+package io.javabrains.springbootstarter.course;
 
-import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.repository.CrudRepository;
 
 //methods with getAllTopics(), getTopic(String id), updateTopic(Topic t), deleteTopic(String id)
